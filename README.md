@@ -1,0 +1,1 @@
+# docc-static-hosting-test
