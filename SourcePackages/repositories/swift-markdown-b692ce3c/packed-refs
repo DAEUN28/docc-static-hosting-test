@@ -1,0 +1,50 @@
+# pack-refs with: peeled fully-peeled sorted 
+16ebb0ccea68c0009f550bd48cca1df8675685dc refs/heads/main
+16ebb0ccea68c0009f550bd48cca1df8675685dc refs/heads/release/5.6
+9952551b39267b9f339b7a7fc0d20c6ef44f8104 refs/heads/shahmishal-patch-1
+8af190e743b18eadedc053a4c13a1acb9b537135 refs/pull/1/head
+9f84712ca72d56c57880857ac8ef38363021693f refs/pull/10/head
+c0b012f63b5be00097370d6bf2fa65bbc44790a9 refs/pull/10/merge
+b1728a4286ddfa6b345e347360e56c56ce536c82 refs/pull/11/head
+25e08d94fa1ff7cc121c0689f6474deaf8375d2e refs/pull/12/head
+47bd435fbb4519c236a2b11544d117a2bc11428b refs/pull/13/head
+52cec31afb82ac79702f3174a77ac7a95f4577f7 refs/pull/14/head
+dbf67260f8bc2a7038a0cceb324e91f98243eb0d refs/pull/15/head
+8053e85ca31ff2c4481970f4c08a5d74d80a1136 refs/pull/16/head
+9a9050095ec93853c0ed01930a9d108d79dc4776 refs/pull/17/head
+77234d6fcf0e45f064dc7fec2786f19a0796b32f refs/pull/18/head
+f86b2e98296eb60b3215948e1da1039ddb8c96ed refs/pull/19/head
+b79a376756b75920cdedd97093823e4d072ac76f refs/pull/2/head
+fc3d8345d68deb60f89ed4b7d93cb9d231e224a8 refs/pull/20/head
+6c5f7bef53e6842d2323f295b336eed82e2d4365 refs/pull/21/head
+6ea253259294e929ef23076c8732e68173c8c847 refs/pull/22/head
+4a04807b56c0ff2854e40e73a1036b2d88233ef8 refs/pull/22/merge
+90619fceca5e868f814700512663b6c10b2aa9c1 refs/pull/3/head
+0ae16eee83474de41c72937abd2f7d2f48cc1fc3 refs/pull/4/head
+0313461c46417ce7fd6799086a9adb1c209d0269 refs/pull/5/head
+6e23903133d3818e50ee27cff03df0f66f4451da refs/pull/6/head
+88e85f7f3f00aed1878ce1a015224549ae0711c5 refs/pull/7/head
+a41a23c7e11111a7422cc7645def0e7a0517776e refs/pull/7/merge
+9952551b39267b9f339b7a7fc0d20c6ef44f8104 refs/pull/8/head
+26936970b560d315e9c1d5183d61f046e44b795c refs/pull/9/head
+2ba1ed580d18b330f6e89d999b6e09f5f1343fde refs/tags/0.1.0
+fe7d3aa16e36a105cfa0c3d05f11780e847dd04f refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-02-a
+^c061d9f4fb45d36002e46149b915764e05a9a671
+71cc9041d38e5314cd6ad429ee7dc05666b4c021 refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-10-a
+^1023300b1d6847360ac9ceebbcff2bccacbcf2a5
+4f2a871413f0ba643206dd0e820917066e5dec06 refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-11-a
+^72552e2828254f9ebe43c6db971c4205e867394e
+9be7f1cc05e8505b78db4b5032aa49e87b03dec8 refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-12-a
+^c570b5873782f1a1cca5f649ebf1e0bc599bba51
+f70986119b4e245d398c3bfbac243e90389a80cc refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-15-a
+^dfb10b7cb1f9ebc5dc3122f4ff51669ba1a87156
+5b77529521b9c7b1b27916cec6c503f2843b2d4a refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-19-a
+^c9dbdb506d404216b7015131436a49dee2de9ae2
+ffa39e4ee3f5c088c7928379b34b6f0d386b5d98 refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-11-20-a
+^c9dbdb506d404216b7015131436a49dee2de9ae2
+62f2ed645cf04f41f815430bfad42c611a275faa refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-12-02-a
+^c9dbdb506d404216b7015131436a49dee2de9ae2
+0c6a4e845c0ef52e73bb66d5f8fc25caf8daf325 refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-12-04-a
+^c9dbdb506d404216b7015131436a49dee2de9ae2
+be385aa3ce9beb070d34f4dc455c99b0070d63a4 refs/tags/swift-DEVELOPMENT-SNAPSHOT-2021-12-06-a
+^c9dbdb506d404216b7015131436a49dee2de9ae2

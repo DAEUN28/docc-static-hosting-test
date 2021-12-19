@@ -1,0 +1,22 @@
+derived: https://github.com/apple/swift-argument-parser
+derived: https://github.com/apple/swift-crypto.git
+derived: https://github.com/apple/swift-nio-ssl.git
+derived: https://github.com/apple/swift-nio.git
+resolving: https://github.com/apple/swift-argument-parser
+resolved: https://github.com/apple/swift-argument-parser @ 1.0.1
+resolving: https://github.com/apple/swift-crypto.git
+resolved: https://github.com/apple/swift-crypto.git @ 1.1.2
+resolving: https://github.com/apple/swift-nio-ssl.git
+resolved: https://github.com/apple/swift-nio-ssl.git @ 2.15.0
+resolving: https://github.com/apple/swift-nio.git
+resolved: https://github.com/apple/swift-nio.git @ 2.31.2
+solved:
+swift-argument-parser[https://github.com/apple/swift-argument-parser] 1.0.1
+swift-crypto[https://github.com/apple/swift-crypto.git] 1.1.2
+swift-nio[https://github.com/apple/swift-nio.git] 2.31.2
+swift-nio-ssl[https://github.com/apple/swift-nio-ssl.git] 2.15.0
+swift-cmark[https://github.com/apple/swift-cmark.git] 2190baadafe6e83e50f8f97c2909eb48fd3eae66
+swift-markdown[https://github.com/apple/swift-markdown.git] 9a9050095ec93853c0ed01930a9d108d79dc4776
+swift-docc[/Users/daeunkim/Documents/GitHub/docc-static-hosting-test/swift-docc] unversioned
+swift-lmdb[https://github.com/apple/swift-lmdb.git] 6ea45a7ebf6d8f72bd299dfcc3299e284bbb92ee
+swift-docc-symbolkit[https://github.com/apple/swift-docc-symbolkit] c46163870115c497d99ee44158bc086c5956fe3d

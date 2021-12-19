@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	symlinks = true
+[remote "origin"]
+	url = https://github.com/apple/swift-markdown.git
+	fetch = +refs/*:refs/*
+	mirror = true
